@@ -12,7 +12,7 @@ class Persona {
 
 }
 
-/* eduardo = new Persona('Eduardo', 'Garcia', 46);
+eduardo = new Persona('Eduardo', 'Garcia', 46);
 eduardo.saludar();
 carlos = new Persona('Carlos', 'Pedraza', 52);
-carlos.saludar(); */
+carlos.saludar();
